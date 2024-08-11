@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c4xKb0epIe4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\Documents\\Projetos\\pwd hash\\PwdToHash\\PwdToHash.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
