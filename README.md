@@ -1,7 +1,7 @@
 # Backend: Hashing de Senhas com BCrypt em .NET
 
 ## Sobre o Projeto:
-Este projeto é minha primeira experiência com hashing de senhas usando BCrypt em .NET 8. Usei este código para aprender como criar e verificar hashes de senhas de forma segura.
+Este projeto é minha primeira experiência com hashing de senhas usando BCrypt em .NET 8. Usei este código para aprender como criar e verificar hashes de senhas.
 
 ## Imagens
 ![image](https://github.com/user-attachments/assets/a74b80e4-bd4e-4bb9-8829-8b659310476d)
